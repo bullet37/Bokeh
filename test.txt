@@ -1,0 +1,2 @@
+https://codalab.lisn.upsaclay.fr/competitions/10229#participate
+pipreqs ./ --encoding=utf-8
